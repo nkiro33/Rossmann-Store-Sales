@@ -30,3 +30,12 @@ __Predictions and Analysis__: Demonstrates how to use the trained model to make 
 __Outcome__: The notebook results in a trained LSTM model capable of forecasting future sales for the Rossmann stores. It provides a detailed evaluation of the model's performance and insights into the sales dynamics captured by the model.
 
 Both notebooks together provide a comprehensive approach to solving the Rossmann Store Sales forecasting challenge, from raw data processing to developing and evaluating a sophisticated time series forecasting model. 
+
+## Kaggle Competition Score
+
+I participated in the Rossmann Store Sales forecasting competition on Kaggle and achieved the following score:
+
+**Private Leaderboard Score:** XX.XXXXX
+**Public Leaderboard Score:** YY.YYYYY
+
+This score reflects the accuracy of my sales forecasting model compared to other participants in the competition. For more details, visit [my Kaggle profile](https://www.kaggle.com/yourusername).
